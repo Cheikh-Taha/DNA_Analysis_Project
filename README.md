@@ -1,6 +1,6 @@
 # 🧬 Application d'Analyse d'ADN Bactérien
 
-> Développé par **MAROUANE EL BOUSAIRI** — Biologie Moléculaire · Bioinformatique
+> Développé par **Taha CHEIKH** — Biologie Moléculaire · Bioinformatique
 
 Application Python interactive permettant l'analyse complète d'une séquence ADN bactérienne : détection des ORFs, promoteurs, terminateurs Rho-indépendants et sites Shine-Dalgarno.
 
